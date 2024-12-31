@@ -29,3 +29,5 @@ Install Python (if not already installed):
 sudo apt install python3
 
 Install Z3 Solver:
+
+pip install z3-solver
